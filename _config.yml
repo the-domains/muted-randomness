@@ -1,0 +1,14 @@
+layout_spectrum: 0.5385202285833657
+typography_spectrum: 0.40074080554768443
+color:
+  brandStrength: 0.24368020379915833
+  lightness: 0.4371318568009883
+  saturation: 0.31414767331443727
+  rhythmicContrast: 0.9326634458266199
+  brandColors:
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
+name: muted randomness
